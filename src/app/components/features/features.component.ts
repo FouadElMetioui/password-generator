@@ -91,7 +91,7 @@ export class FeaturesComponent {
 
     if (charSet.length === 0) {
       Swal.fire({
-        title: "Please selection an option !",
+        title: "Please select an option !",
         icon: "error"
       });
       return this.password ;

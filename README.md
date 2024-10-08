@@ -10,5 +10,13 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ![Output Image](./src/assets/images/img.png)
 
+### Stack Tech
+
+- Angular@17
+- NGRX
+- Tailwind css
+
 ### Want to Try?
 [Click Here](https://password-generator-xi-liart.vercel.app/)
+
+
